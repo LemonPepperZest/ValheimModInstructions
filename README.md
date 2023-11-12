@@ -6,7 +6,8 @@ There are also slots specifically for equipped gear. When you return to your tom
 
 ## Build Camera
 
-Try pressing **B** while the hammer is equipped! This unlocks the camera from your character so you can get a better angle. Press **B** again or switch tools to exit. You are still restricted to building in reach of your character.
+Try pressing **B** while the hammer is equipped! This unlocks the camera from your character so you can get a better angle. The controls are typical WASD plus spacebar for UP. It can be a bit disorienting at first because it often starts you off facing the floor.
+Press **B** again or switch tools to exit. You are still restricted to building in reach of your character.
 
 ## Quick Stack Sort Restock Trash
 
