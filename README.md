@@ -13,30 +13,31 @@ Press **B** again or switch tools to exit. You are still restricted to building 
 
 ## Quick Stack Sort Restock Trash
 
-**Quick Stack** - Default Keybind: P
+### Quick Stack - Default Keybind: P
 Non-favourited items will be placed in storage **within 8m** which already contain that item. 
 
-**Sort** - Default Keybind: O
+### Sort - Default Keybind: O
 Items in your inventory or the selected container will be sorted. 
 
-**Restock** - Default Keybind: L
+### Restock - Default Keybind: L
 Favourited items will be restocked from nearby chests.
+
 *Caution* - it will take as many as are available to fill any partial stacks you have. You may find yourself weighed down by 60 meals.
 
-**Trash**
+### Trash
 Click and drag items to the trash icon on the right side of your inventory menu.
 
-**Favourite and Quick Trash Items**
+### Favourite and Quick Trash Items
 Ctrl-Click on an item to mark it as a favourite, so that it doesn't quick stack away. It will get a thin border to indicate.
 
 ## QOL Plugins
-**Slope Combat Assistance**
+###Slope Combat Assistance
 Your attacks will be higher or lower if you look up or down while attacking.
 
-**Fast Portals**
+### Fast Portals
 There's no longer a built-in minimum delay on portal travel.
 
-**Compass**
+### Compass
 There's a compass at the top of your screen now.
 
 ## Plant Easily
