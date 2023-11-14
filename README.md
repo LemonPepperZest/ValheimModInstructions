@@ -31,7 +31,7 @@ Click and drag items to the trash icon on the right side of your inventory menu.
 Ctrl-Click on an item to mark it as a favourite, so that it doesn't quick stack away. It will get a thin border to indicate.
 
 ## QOL Plugins
-###Slope Combat Assistance
+### Slope Combat Assistance
 Your attacks will be higher or lower if you look up or down while attacking.
 
 ### Fast Portals
